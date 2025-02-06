@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**hiromasae/hiromasae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Major at San Francisco State University
 
-Here are some ideas to get you started:
+I was born in Houston, Texas but grew up in Pacifica, California.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The first computer that I owned was a 2015 Macbook Air.
+
+## Contact
+
+Email: hiroeern@gmail.com 
+
+LinkedIn: www.linkedin.com/in/hiromasa-eernisse-b6830b172
+
+
