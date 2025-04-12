@@ -4,7 +4,7 @@ Computer Science Major at San Francisco State University
 
 I was born in Houston, Texas but grew up in Pacifica, California.
 
-The first computer that I owned was a 2015 Macbook Air.
+The first computer that I owned was an early 2015 13-inch Macbook Air.
 
 ## Contact
 
