@@ -9,7 +9,11 @@ The first computer that I owned was an early 2015 13-inch Macbook Air.
 ## Contact
 
 [Email](hiroeern@gmail.com)
-  |  
+
+|
+
 [Portfolio](https://hiroeern.com/)
-  |  
+
+|
+
 [LinkedIn](www.linkedin.com/in/hiro-design)
