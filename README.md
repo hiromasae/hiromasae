@@ -1,8 +1,8 @@
-# Hello!
+# こんにちは。
 
-Computer Science graduate with a focus on UX & visual design.
+I'm a Design Engineer based in the San Francisco Bay Area.
 
-I was born in Houston, Texas but grew up in Pacifica, California.
+I was born in Houston, Texas but grew up in the San Francisco Bay Area.
 
 The first computer that I owned was an early 2015 13-inch Macbook Air.
 
