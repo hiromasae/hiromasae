@@ -1,4 +1,4 @@
-# こんにちは。
+# はじめまして。
 
 I'm a Design Engineer based in the San Francisco Bay Area.
 
