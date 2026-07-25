@@ -1,15 +1,12 @@
 # はじめまして。
 
-Design Engineer based in the San Francisco Bay Area.
+Design Engineer in the San Francisco Bay Area. I build with AI, but I make
+the decisions that matter myself. Taste, and knowing how a person moves
+through a product, is still human work.
 
-Born in Houston, Texas but grew up in the San Francisco Bay Area.
-
-The first computer that I owned was an early 2015 13-inch Macbook Air.
+Born in Houston, raised in the Bay. My first machine was a 2015 MacBook Air.
 
 ## Contact
-
-[Email](hiroeern@gmail.com)
-|
-[Portfolio](https://hiroeern.com/)
-|
-[LinkedIn](www.linkedin.com/in/hiro-design)
+[Email](mailto:hiroeern@gmail.com) ·
+[Portfolio](https://hiroeern.com/) ·
+[LinkedIn](https://www.linkedin.com/in/hiro-design)
